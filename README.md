@@ -2,7 +2,7 @@
 
 # DJ Patil y Crisis Text Line 
 
-**Autor:** Miguel Agudelo  
+**Autores:** Miguel Agudelo, Daniel Mogollonestrada, Gabriel Romero  
 **Asignatura:** Introducción a la Ciencia de Datos  
 
 ---
