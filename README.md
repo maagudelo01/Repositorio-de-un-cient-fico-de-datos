@@ -71,16 +71,6 @@ El proyecto consistió en analizar **más de 100 millones de mensajes de texto**
 > [!WARNING]
 > **Nota importante:** La Ciencia de Datos funcionó como una herramienta de apoyo a la decisión humana. El objetivo no era reemplazar a los voluntarios, sino brindarles información para actuar más rápido.
 
-<details>
-  <summary>Haz clic aquí para ver más detalles sobre la ecuación de impacto</summary>
-
-  El impacto del análisis de datos en la eficiencia del servicio se puede entender de forma abstracta como:
-  
-  $$Impacto = \frac{\text{Priorización Correcta}}{\text{Tiempo de Respuesta}}$$
-
-</details>
-
----
 
 ## 6. Conclusión
 
