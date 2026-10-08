@@ -2,24 +2,24 @@
 
 # DJ Patil y Crisis Text Line 
 
-**Autores:** Miguel Agudelo, Daniel Mogollonestrada, Gabriel Romero  
+**Autor:** Miguel Agudelo  
 **Asignatura:** Introducción a la Ciencia de Datos  
 
 ---
 
 </div>
-
-## 1. ¿Quién es DJ Patil?
+<div align="center">
+##1. ¿Quién es DJ Patil?
 
 **DJ Patil** es un *científico de datos*, matemático y emprendedor estadounidense. Es reconocido por su trabajo en empresas de tecnología y por promover el uso ético e impactante del análisis de datos.
 
 * Estudió matemáticas aplicadas.
 * Trabajó en empresas como **PayPal**, **eBay** y **LinkedIn** (donde se desempeñó como *Chief Scientist*).
 * En 2015 fue nombrado por el presidente Barack Obama como el ***primer Chief Data Scientist de los Estados Unidos***.
+<img src="WhatsApp Image 2026-10-07 at 19.26.49.jpeg" width="250">
 
----
-
-## 2. Problemática
+</div>
+##2. Problemática
 
 Crisis Text Line es una organización que ofrece apoyo mediante mensajes de texto a personas en situaciones de crisis.
 
@@ -28,6 +28,7 @@ Crisis Text Line es una organización que ofrece apoyo mediante mensajes de text
 Por esta razón, era indispensable encontrar una metodología impulsada por datos para identificar y priorizar los casos con mayor riesgo de manera rápida.
 
 ---
+<div align="center">
 
 ## 3. Explicación del Proyecto
 
@@ -48,7 +49,7 @@ El proyecto consistió en analizar **más de 100 millones de mensajes de texto**
 7. Atención oportuna por parte de los voluntarios
 
 ---
-
+<div align="center">
 ## 4. Resumen de Etapas
 
 | Etapa | Descripción |
@@ -59,7 +60,8 @@ El proyecto consistió en analizar **más de 100 millones de mensajes de texto**
 | **Paso 4** | Intervención directa del voluntario capacitado con los casos prioritarios. |
 
 ---
-
+</div>
+<div align="center">
 ## 5. Tareas del Proyecto
 
 - [x] Recolección masiva de mensajes (más de 100M de textos)
@@ -68,7 +70,7 @@ El proyecto consistió en analizar **más de 100 millones de mensajes de texto**
 - [ ] Optimización continua de los algoritmos de priorización
 
 ---
-
+</div>
 > [!WARNING]
 > **Nota importante:** La Ciencia de Datos funcionó como una herramienta de apoyo a la decisión humana. El objetivo no era reemplazar a los voluntarios, sino brindarles información para actuar más rápido.
 
