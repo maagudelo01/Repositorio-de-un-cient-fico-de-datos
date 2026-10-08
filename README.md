@@ -1,12 +1,13 @@
-# Repositorio-de-un-cientí-fico-de-datos
-Es un repositorio donde vamos a hablar de proyectos liderados y ejecutados por un científico de datos.
+<div align="center">
 
-# Caso de Estudio: DJ Patil y Crisis Text Line 📊
+# DJ Patil y Crisis Text Line 
 
 **Autor:** Miguel Agudelo  
 **Asignatura:** Introducción a la Ciencia de Datos  
 
 ---
+
+</div>
 
 ## 1. ¿Quién es DJ Patil?
 
